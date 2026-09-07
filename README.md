@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Thilini
+<h1 align="center">Hi 👋, I'm Thilini Jayathilaka</h1>
 
 <!--
 **thilini-henu/thilini-henu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
