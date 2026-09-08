@@ -4,7 +4,6 @@
 Researcher | GeoAI | Geospatial | Human Behaviour | Digital Agriculture | Climate Change | Sustainable Development
 </h3>
 
----
 
 ## 👩‍🔬 About Me
 
@@ -19,7 +18,7 @@ My research focuses on:
 - 🤖 Agent-Based Modelling
 - 🐍 Python
 
----
+
 
 ## 🔬 Current Research
 
@@ -27,19 +26,19 @@ My research focuses on:
 
 I am developing a research framework integrating **GeoAI, GIS, Remote Sensing, climate-risk assessment, farmer behaviour, and Agent-Based Modelling** to understand digital agriculture adoption under climate change.
 
----
+
 
 ## 🛠️ Research Tools
 
 **Python | Google Earth Engine | ArcGIS Pro | QGIS | NetLogo | R | SmartPLS | Jupyter Notebook**
 
----
+
 
 ## 📚 Research Interests
 
 **GeoAI • GIScience • Digital Agriculture 4.0 • Climate Resilience • Remote Sensing • Agent-Based Modelling • Spatial Decision-Making • Sustainable Development**
 
----
+
 
 <p align="center">
 <b>🌱 Connecting geospatial intelligence, human behaviour, and policy simulation for climate-resilient agriculture.</b>
