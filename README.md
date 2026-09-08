@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Thilini Jayathilaka<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h3 align="center">
-Researcher | GeoAI | Geospatial | Human Behavior | Digital Agriculture | Climate Change | Sustainable Development
+Researcher | GeoAI | Geospatial | Human Behaviour | Digital Agriculture | Climate Change | Sustainable Development
 </h3>
 
 ---
